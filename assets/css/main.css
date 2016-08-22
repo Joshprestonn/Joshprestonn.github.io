@@ -2807,6 +2807,7 @@
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		background-size: 8000px,   6000px;
 	}
 
 		#header a {
