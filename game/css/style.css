@@ -1,0 +1,137 @@
+body {
+  cursor: url("http://www.cursor.cc/cursor/402/3/cursor.png"), auto;
+}
+
+#playAgainButton {
+  z-index: 8000000;
+  position:absolute;
+  margin-left: 40px;
+  margin-top: 0px;
+  width:1520px;
+  height:600px;
+  background-color:#000000;
+  font-size:60pt;
+  color:#FF6600;
+  border:solid; 
+}
+
+
+
+
+#background  {
+  z-index: 1;
+  position:absolute;
+  margin-left:px;
+  
+
+}
+
+#schmitterling {
+  background-color:#000000;
+  border-color:#000000;
+  color:#ffffff;
+  border:solid;
+  
+}
+
+#sheepMiddleFront {
+  z-index: 2;
+  margin-left: 680px;
+  margin-top: 510px;
+  position:absolute;
+}
+
+#hedgeMiddleFront {
+  z-index:23000;
+  position:absolute;
+  margin-left: 424px;
+  margin-top: 475px;
+}
+
+#babySheepMiddleFront {
+  z-index:17;
+  position:absolute;
+  margin-left:715px;
+  margin-top: 540px;
+}
+
+#hedgeBackLeft {
+  z-index:13;
+  position:absolute;
+  margin-left: -90px;
+  margin-top: 400px;
+}
+
+#babySheepBackLeft {
+  z-index:2;
+  position:absolute;
+  margin-left:250px;
+  margin-top:460px
+}
+
+#sheepBackLeft {
+  z-index:4;
+  position:absolute;
+  margin-left:125px;
+  margin-top:425px;left:0;
+}
+
+#pugMiddleBack {
+  z-index:8;
+  position:absolute;
+  margin-left:300px;
+  margin-top:500px
+}
+
+#hedgeMiddleBack {
+  z-index:-9;
+  position:absolute;
+  margin-left:230px;
+  margin-top:325px;
+  
+}
+
+#sheepBackMiddle {
+  z-index:2;
+  position:absolute;
+  margin-left:1300px;
+  margin-top:115px;
+}
+
+#hedgeMiddleRight {
+  z-index:3;
+  position:absolute;
+  margin-left:700px;
+  margin-top:400px;
+}
+
+#sheepBackRight {
+  z-index:2;
+  position:absolute;
+  margin-left:1000px;
+  margin-top:425px;
+}
+
+#tree1 {
+  z-index:3;
+  position:absolute;
+  margin-left:1200px;
+  margin-top:87px
+}
+
+#sheepTreeRight {
+  z-index:2;
+  position:absolute;
+  margin-left:1440px;
+  margin-top:135px;
+  
+}
+
+#babyBrowHillSheep {
+  z-index:2;
+  position:absolute;
+  margin-left:600px;
+  margin-top:380px
+}
+
+
